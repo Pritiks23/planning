@@ -36,4 +36,3 @@ What happens if ingestion fails?
 
 Is processing synchronous?
 
-Don’t start typing immediately.
